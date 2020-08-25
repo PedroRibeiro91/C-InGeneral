@@ -1,5 +1,5 @@
 # C-InGeneral
 
-In this repository there will be some C# code display with respective description. 
+In this repository C# programs are at display. 
 
 At the moment, I'm a beginner.
